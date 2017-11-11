@@ -1,0 +1,5 @@
+[23-Jan-2017 18:06:42 Asia/Calcutta] PHP Notice:  Undefined index: sub_nam in /home/trendzco/public_html/techsist.in/onlinetest/admin/function/function.php on line 70
+[23-Jan-2017 18:32:10 Asia/Calcutta] PHP Notice:  Undefined index: sub_nam in /home/trendzco/public_html/techsist.in/onlinetest/admin/function/function.php on line 70
+[13-Feb-2017 19:23:59 Asia/Calcutta] PHP Notice:  Undefined index: sub_nam in /home/trendzco/public_html/techsist.in/onlinetest/admin/function/function.php on line 70
+[10-Nov-2017 11:13:01 Asia/Calcutta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'trendzco'@'localhost' (using password: YES) in /home/trendzco/public_html/techsist.in/onlinetest/admin/function/db.php on line 8
+[10-Nov-2017 11:13:01 Asia/Calcutta] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'trendzco'@'localhost' (using password: YES) in /home/trendzco/public_html/techsist.in/onlinetest/admin/function/db.php on line 8

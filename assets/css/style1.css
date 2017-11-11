@@ -1,0 +1,151 @@
+/*
+ *
+ * Template Name: Andia
+ * Template URI: http://azmind.com
+ * Description: Andia - Responsive Agency Template
+ * Author: Anli Zaimi
+ * Author URI: http://azmind.com
+ *
+ */
+
+body {
+  background-color: #F0F5FB;
+	  font-size: 11px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+color:#ccc;
+font-family: Arial, Helvetica, sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
+  line-height: 23px;
+  color: #072E54;
+}
+
+.violet { color: #9d426b; }
+.text-justify{text-align:justify;}
+a {
+    color: #9d426b;
+    text-decoration: none;
+    -o-transition: all .3s;
+    -moz-transition: all .3s;
+    -webkit-transition: all .3s;
+    -ms-transition: all .3s;
+}
+
+a:hover { color: #888; text-decoration: none; }
+
+strong { font-weight: bold; }
+
+
+/* ----- Header ----- */
+
+.box-inner{
+width:100%;
+height:100%;
+background-color:rgba(23,31,36,.6);
+padding:20px;
+border-radius:10px;
+margin-top:20px;
+box-shadow: 1px 2px 5px 2px rgba(0, 0, 0, .1);
+}
+.form-login{padding:0 25px;}
+.form-profile{background-color:#ffffff;padding:30px 25px;box-shadow: 1px 2px 5px 2px rgba(0, 0, 0, .1);
+margin-top: 15px;
+border-radius: 5px;
+}
+.label1{color:#ffffff;font-size:12px;font-weight:  normal;font-size: 12px;}
+.form-final{background-color:#ffffff;padding:0 25px;border-radius:0px;
+margin:10px;
+border: 0px solid #f0f0f0;
+}
+
+.ansp{line-height: 27px;font-size: 14px;color:#363636;font-family: Arial, Helvetica, sans-serif;}
+.questionp{font-size: 14px;color:#1D1D1D;font-family: Arial, Helvetica, sans-serif;}
+.name1{font-size: 20px;line-height: 25px;padding-bottom: 0;}
+.profile{width: 100%;height: 100%;max-height: 100px;max-width: auto;}
+.color{background-color: #F0F5FB;margin: 0;padding: 5px 10px;}
+.color1{background-color: #F0F5FB;margin: 0;padding: 8px 10px;}
+.clock{background-color: #FF5353;padding: 3px 10px;color: #ffffff;}
+/* pagination1 style */
+.nomargin{max-height:250px;padding:10px;}
+.exam_now{padding-bottom:10px;}
+  .pagination{
+  margin:0px auto;
+  }
+  .pagination .current{
+  padding: 4px 10px;
+color: white;
+margin: 1px 0px 9px 6px;
+display: block;
+text-decoration:none;
+text-transform: capitalize;
+background: #208B06;
+  width:95px;
+  float:left;
+  text-align:center;
+  }
+  .pagination .page-numbers{
+  float:left;
+  width:95px;
+  padding: 4px 10px;
+color: white !important;
+margin: 1px 0px 9px 6px;
+display: block;  text-align:center;
+
+text-decoration:none;
+text-transform: capitalize;
+background: #258ADF;
+  }
+.btn-prim{background-color:#00BFBF;color:#FFFFEA;  padding: 6px 12px;  border: 1px solid transparent;}
+.btn-prim:hover{background-color: #00B3B3;}
+
+
+.gap-40 {
+	clear: both;
+	height: 40px;
+}
+
+.gap-30 {
+	clear: both;
+	height: 30px;
+}
+.gap-20 {
+	clear: both;
+	height: 20px;
+}
+@media (min-width: 768px) and (max-width: 979px) {
+
+.col-xs-12 {
+        margin-top:20px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    body {
+        padding-left: 0;
+        padding-right: 0;
+    }
+.col-xs-12 {
+        margin-top:20px;
+    }
+}
+
+@media (max-width: 480px) {
+.col-xs-12 {
+        margin-top:20px;
+    }
+}
+
+
+
+
+
+
